@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TareaSpotify</string>
+    <string name="main_title">Spotify Player</string>
+    <string name="main_prompt">Connect to Spotify to play your favorite songs!</string>
+</resources>
